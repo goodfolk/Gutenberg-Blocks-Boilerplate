@@ -1,0 +1,34 @@
+{
+  "name": "goodfolk-blocks-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate for writing Gutenberg Blocks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/goodfolk/Gutemberg-Blocks-Boilerplate.git"
+  },
+  "keywords": [
+    "Gutenberg",
+    "wordpress",
+    "boilerplate"
+  ],
+  "author": "Diego Ferreyra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goodfolk/Gutemberg-Blocks-Boilerplate/issues"
+  },
+  "homepage": "https://github.com/goodfolk/Gutemberg-Blocks-Boilerplate#readme",
+  "devDependencies": {
+    "@babel/core": "^7.1.6",
+    "@babel/preset-env": "^7.1.6",
+    "@babel/preset-react": "^7.0.0",
+    "gulp": "^4.0.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-cli": "^2.0.1",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4"
+  }
+}
