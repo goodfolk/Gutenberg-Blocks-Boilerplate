@@ -1,6 +1,6 @@
 # Gutenberg-Blocks-Boilerplate
 
-Very simple boilerplate for writing Gutenberg Blocks
+Very simple boilerplate for writing Gutenberg Blocks within a plugin.
 
 ## Usage
 
